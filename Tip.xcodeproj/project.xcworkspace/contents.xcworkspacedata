@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../../../Zaid&apos;s tip calculator/Main.storyboard">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Zaid&apos;s tip calculator/ViewController.swift">
+   </FileRef>
+   <FileRef
       location = "self:Tip.xcodeproj">
    </FileRef>
 </Workspace>
